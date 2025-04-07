@@ -36,7 +36,6 @@ We’ll use the U.S. Environmental Protection Agency (EPA) website for this tuto
 
 ### 3. Start a Web Archiving Session
 
-- Click the **“New Capture”** button.
 - In the **“Capture Address”** field, enter the URL of the website you'd like to archive — for this tutorial, enter: `https://www.epa.gov/`.
 - Select your preferred capture method:
   - Your local browser
