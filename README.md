@@ -64,6 +64,7 @@ For more details, see Conifer’s [Choosing a Browser](https://conifer.rhizome.o
 
 ---
 
+# Advocacy Resources
 ### 5. End the Web Capture Session
 
 - When you've finished capturing the content, click the **“Finish Recording”** button in the top-left corner.
