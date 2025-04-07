@@ -61,7 +61,7 @@ Your choice of browser can affect how data is captured or displayed. Websites ma
 
 
 
-For more details, see [Conifer’s *Choosing a Browser* documentation](https://guide.conifer.rhizome.org/docs/capture-approaches/capture/
+For more details, see [Conifer’s *Choosing a Browser* documentation](https://guide.conifer.rhizome.org/docs/capture-approaches/capture)
 
 
 ---
