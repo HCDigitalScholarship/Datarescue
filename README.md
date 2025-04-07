@@ -65,7 +65,7 @@ For more details, see Conifer’s [Choosing a Browser](https://conifer.rhizome.o
 
 ### 5. End the Web Capture Session
 
-- When you've finished capturing the content, click the **“Finish Recording”** button in the top-left corner.
+- When you've finished capturing the content, click the **“Stop”** button (red dot) in the top-left corner.
 - Provide a **name** and **description** for your session to help identify it later.
 - Organize your sessions into **collections** for easier access and management.
 
