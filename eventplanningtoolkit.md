@@ -41,3 +41,25 @@ We focused our outreach efforts in several key areas, posting the event on the C
 
 **Subject: Invitation to [Event Name]: Join us for data rescue and web archiving**
 
+Dear [Name],  
+
+I’m writing to invite you to **[sponsoring organization]**’s *[name of event]*, and to ask for your help in promoting it to **[your department, students, colleagues, etc.]**.
+
+Information about the environment is rapidly disappearing from federally managed websites.  
+Datasets on climate change, environmental justice, extreme weather events, and communities at risk of toxic hazards — data that researchers around the world have relied on for decades — are suddenly inaccessible or simply gone.
+
+Archivists and librarians are fighting back by rescuing this vital information and keeping it safe, reliable, and accessible.  
+In honor of Earth Month, the Libraries are hosting a workshop to inform the Haverford community about the importance of federally funded climate data and methods of archiving it.
+
+No prior technical experience is needed; participants will explore various data and web archiving techniques and learn more about the importance of federally funded research data, particularly in environmental, climate, and other scientific fields.  
+Laptops are not required but can be helpful to have for some portions of the event.
+
+Attached are some graphics you can post to social media along with the following event details:
+
+- **Event Title**  
+- **Location** (with link to it on a map)  
+- **Time and Date** *(drop-ins welcome – come when you can, go when you please.)*
+
+Thanks so much for your help!
+
+
