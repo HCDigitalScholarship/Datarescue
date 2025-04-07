@@ -8,7 +8,8 @@ There are many tools and methods for web archiving, each producing different for
 - **Database harvesting**: Involves exporting data from a database into a standard schema such as XML.
 - **Transactional harvesting**: Captures web pages based on user interactions (such as viewing a page).
 
-For more information on these other types of web archiving and how to use web crawlers, see our [Web Archiving and Data Rescue Lib Guide](https://guides.tricolib.brynmawr.edu/c.php?g=1451861&p=107914) and 
+For more information on these other types of web archiving and how to use web crawlers, see our [Web Archiving and Data Rescue Lib Guide](https://guides.tricolib.brynmawr.edu/c.php?g=1451861&p=107914) and and [Virginia Tech University Libraries Web Archiving Lib Guide](https://guides.lib.vt.edu/webarchiving/home#:~:text=Types%20of%20Web%20Crawling,page%2C%20and%20trigger%20a%20capture).
+
 
 
 Today, we’ll focus on the third method: **transactional harvesting**, using an open-source tool called **Conifer**. Conifer has a high success rate in capturing complex websites with elements like embedded videos and 3D graphics. Its user-friendly interface makes it approachable for those new to web archiving. Another advantage is that it can capture content visible only to logged-in users, which may differ from public views.
