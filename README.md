@@ -60,8 +60,8 @@ We’ll use the U.S. Environmental Protection Agency (EPA) website for this tuto
 Your choice of browser can affect how data is captured or displayed. Websites may render differently across browsers due to varying support for image formats, JavaScript, or plugins. You may need to test different capture methods — using your **local browser**, a **remote browser**, or the **ArchiveWeb.page desktop app** — depending on the site’s configuration.
 
 
+For more details, see [Conifer’s *Choosing a Browser* documentation](https://guide.conifer.rhizome.org/docs/capture-approaches/capture-browsers/).
 
-For more details, see [Conifer’s *Choosing a Browser* documentation](https://guide.conifer.rhizome.org/docs/capture-approaches/capture)
 
 
 ---
