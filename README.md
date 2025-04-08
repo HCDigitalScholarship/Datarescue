@@ -6,7 +6,8 @@ This repository contains resources related to data rescue and web archiving for 
 
 - **Advocacy resources**: [5calls.org](https://5calls.org/)-style scripts for contacting your representatives to advocate for the stewardship and preservation of federal research data  
 - **Web archiving tutorial**: A tutorial for web archiving using [Conifer](https://conifer.rhizome.org)  
-- **Data rescue event organizing toolkit**: Templates and tips for organizing your own data rescue and web archiving event 
+- **Data rescue event organizing toolkit**: Templates and tips for organizing your own data rescue and web archiving event
+- **data rescue resources**: a resource list 
 
 ---
 
