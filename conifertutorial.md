@@ -44,7 +44,7 @@ We’ll use the U.S. Environmental Protection Agency (EPA) website for this tuto
 
 - For today’s exercise, we’ll use the **local browser** option. Depending on the website and its content, you might need to experiment with different methods.
 
-- Begin navigating through the website. Conifer records pages and interactions in real-time.
+- Begin navigating through the website as you would normally. Conifer records pages and interactions in real-time.
 
 #### Suggestions for exploring the EPA site:
 
