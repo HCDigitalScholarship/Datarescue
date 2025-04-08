@@ -41,6 +41,7 @@ We’ll use the U.S. Environmental Protection Agency (EPA) website for this tuto
   - Your local browser
   - A remote browser
   - The ArchiveWeb.page desktop app
+    
 
   > For today’s exercise, we’ll use the **local browser** option. Depending on the website and its content, you might need to experiment with different methods.
 
