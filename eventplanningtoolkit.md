@@ -64,6 +64,5 @@ Thanks so much for your help!
 
 ---
 
-## Tips and Advice (Forthcoming)
 
 
